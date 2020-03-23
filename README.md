@@ -18,8 +18,8 @@ This Repository consist of following things:
     -   Database & Tables
 
 <b>Online MYSQL Databse Connection Details</b><br>
-DATABASE NAME – peperonipizzeria<br>
-SERVER - db4free.net<br>
+DATABASE – peperonipizzeria<br>
 PORT NO - 3306<br>
+SERVER - db4free.net<br>
 USERNAME - curiorimor<br>
 PASSWORD - curiorimor<br>
