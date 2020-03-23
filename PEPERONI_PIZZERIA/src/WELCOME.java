@@ -38,6 +38,7 @@ public class WELCOME extends javax.swing.JFrame {
         setMaximizedBounds(new java.awt.Rectangle(200, 200, 200, 200));
 
         jPanel1.setBackground(new java.awt.Color(30, 30, 30));
+        jPanel1.setPreferredSize(new java.awt.Dimension(928, 687));
 
         HOME_.setBackground(new java.awt.Color(0, 0, 0));
         HOME_.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Images/Pizza-Logo-vintage-styles-vector-05.jpg"))); // NOI18N
@@ -88,11 +89,11 @@ public class WELCOME extends javax.swing.JFrame {
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+            .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, 1344, Short.MAX_VALUE)
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+            .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, 756, Short.MAX_VALUE)
         );
 
         pack();
