@@ -15,11 +15,18 @@ This Repository consist of following things:
     -   Order
     -   Feedback
 -   Detailed REPORT of Project
+    -   Objective & Task
+    -   Features Available
     -   Database & Tables
+    -   User Manual
 
-<b>Online MYSQL Databse Connection Details</b><br>
+<b>Online MYSQL Databse Connection Details</b><br><br>
 SERVER - db4free.net<br>
 PORT NO - 3306<br>
 DATABASE – peperonipizzeria<br>
 USERNAME - curiorimor<br>
 PASSWORD - curiorimor<br>
+<br>
+<b>Login Credentials ( Netbeans )</b><br>
+USERNAME - peperoni<br>
+PASSWORD - pizzeria
