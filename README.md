@@ -4,7 +4,7 @@
 This Repository consist of following things:
 
 -   PEPERONI_PIZZERIA which consists of Main Application ( All the Files for NetBeans Project )<br>
-*Source code with proper comments for Better Instructions
+    -   Source code with proper comments for Better Instructions
 -   SCREENSHOTS of Appilcation
     -   Welcome
     -   Home
