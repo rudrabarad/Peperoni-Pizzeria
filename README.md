@@ -1,11 +1,10 @@
 # Peperoni-Pizzeria
 <b>Restaurant Management System | NetBeans &amp; MySQL</b>
 
-This Repository consist of following :
-
--   PEPERONI_PIZZERIA which consists of Main Application ( All the Files for NetBeans Project )<br>
-    -   Source code with proper comments for Better Instructions
--   SCREENSHOTS of Appilcation
+## Repository Contents
+-   PEPERONI_PIZZERIA which consists of the main application (All the files for NetBeans project)
+    -   Source code with proper comments for better understanding.
+-   Screenshots of the application
     -   Welcome
     -   Home
     -   About Us
@@ -15,19 +14,19 @@ This Repository consist of following :
     -   Stock Management
     -   Order
     -   Feedback
--   Detailed REPORT of Project
+-   Detailed report of the project
     -   Objective & Task
     -   Features Available
     -   Database & Tables
     -   User Manual
 
-<b>Online MYSQL Databse Connection Details</b><br><br>
+## Online MYSQL Database Connection Details
 SERVER - db4free.net<br>
 PORT NO - 3306<br>
 DATABASE – peperonipizzeria<br>
 USERNAME - curiorimor<br>
 PASSWORD - curiorimor<br>
-<br>
-<b>Login Credentials ( Netbeans )</b><br>
+
+## Login Credentials (NetBeans)
 USERNAME - peperoni<br>
 PASSWORD - pizzeria
